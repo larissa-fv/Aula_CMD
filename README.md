@@ -34,6 +34,8 @@ Para coletar dados e diagnosticar a conectividade, usamos comandos:
 
 <img width="1906" height="250" alt="image" src="https://github.com/user-attachments/assets/23c5be37-83b9-417b-91f2-b87e4d7438af" />
 
+<img width="1897" height="317" alt="image" src="https://github.com/user-attachments/assets/412ee154-0bb1-4221-9898-962151a4f398" />
+
 ---
 
 ## Comandos de rede: Windows e Linux
